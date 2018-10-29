@@ -24,5 +24,5 @@ function init() {
   }
 
   docBody.addEventListener('keydown', onKeyDownHandler());
-  
+
 }
