@@ -23,6 +23,6 @@ function init() {
     }
   }
 
-  docBody.addEventListener('keydown', onKeyDownHandler(e));
+  docBody.addEventListener('keydown', onKeyDownHandler);
 
 }
